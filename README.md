@@ -5,8 +5,8 @@
 #### -> Currently creating the [Work-Hours](https://github.com/szypkiwonsz/Work-Hours) (Django x React) project to learn how to combine frontend and backend.
 
 #### About my pinned projects (polished projects, worth attention):
-- **Physiotherapy-Management-System** [[REPOSITORY](https://github.com/szypkiwonsz/Physiotherapy-Management-System)/[LIVE](https://fizjo-system.herokuapp.com/)] - My biggest project created to learn the Django framework. <br>*(PYTHON / DJANGO / POSTGRESQL / HTML / CSS / BOOTSTRAP / JAVASCRIPT / AJAX / JQUERY / CELERY / REDIS / AWS / UNIT TESTS / SELENIUM)*
+- **Physiotherapy-Management-System** [[REPOSITORY](https://github.com/szypkiwonsz/Physiotherapy-Management-System) / [LIVE](https://fizjo-system.herokuapp.com/)] - My biggest project created to learn the Django framework. <br>*(PYTHON / DJANGO / POSTGRESQL / HTML / CSS / BOOTSTRAP / JAVASCRIPT / AJAX / JQUERY / CELERY / REDIS / AWS / UNIT TESTS / SELENIUM)*
 - **Persons-Script** [[REPOSITORY](https://github.com/szypkiwonsz/Persons-Script)] - Script showing how I write Python object-oriented code. <br>*(PYTHON / PYTEST)*
 - **Movies-API-Script** [[REPOSITORY](https://github.com/szypkiwonsz/Movies-API-Script)] - Script showing how I write Python object-oriented code. <br>*(PYTHON / PYTEST)*
-- **Recipes-Rest-Api** [[REPOSITORY](https://github.com/szypkiwonsz/Recipes-Rest-Api)/[LIVE](https://recipes-cookbook-api.herokuapp.com/api/)] - API designed to learn Django REST Framework. <br>*(PYTHON / DJANGO / DJANGO REST FRAMEWORK / POSTGRESQL / AWS / UNIT TESTS)*
-- **Fizjo-Med** [[REPOSITORY](https://github.com/szypkiwonsz/Fizjo-Med)/[LIVE](http://www.fizjo-med.eu/)] - Business card website created for a friend. <br>*(HTML / CSS / BOOTSTRAP)*
+- **Recipes-Rest-Api** [[REPOSITORY](https://github.com/szypkiwonsz/Recipes-Rest-Api) / [LIVE](https://recipes-cookbook-api.herokuapp.com/api/)] - API designed to learn Django REST Framework. <br>*(PYTHON / DJANGO / DJANGO REST FRAMEWORK / POSTGRESQL / AWS / UNIT TESTS)*
+- **Fizjo-Med** [[REPOSITORY](https://github.com/szypkiwonsz/Fizjo-Med) / [LIVE](http://www.fizjo-med.eu/)] - Business card website created for a friend. <br>*(HTML / CSS / BOOTSTRAP)*
