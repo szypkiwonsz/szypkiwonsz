@@ -2,7 +2,7 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg' alt='heroku' height='30'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='30'>
 
 #### -> Looking for an internship to implement the company's requirements and start my first job.
-#### -> Currently creating the Djano x React project to learn how to combine frontend and backend.
+#### -> Currently creating the [Work-Hours](https://github.com/szypkiwonsz/Work-Hours) (Django x React) project to learn how to combine frontend and backend.
 
 #### About my pinned projects:
 - **Physiotherapy-Management-System** [[REPOSITORY](https://github.com/szypkiwonsz/Physiotherapy-Management-System)/[LIVE](https://fizjo-system.herokuapp.com/)] - My biggest project created to learn the Django framework. <br>*(PYTHON / DJANGO / POSTGRESQL / HTML / CSS / BOOTSTRAP / JAVASCRIPT / AJAX / JQUERY / CELERY / REDIS / AWS / UNIT TESTS / SELENIUM)*
