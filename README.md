@@ -4,7 +4,7 @@
 #### -> Looking for an internship to implement the company's requirements and start my first job.
 #### -> Currently creating the [Work-Hours](https://github.com/szypkiwonsz/Work-Hours) (Django x React) project to learn how to combine frontend and backend.
 
-#### About my pinned projects (polished projects, worth attention):
+### About my pinned projects (polished projects, worth attention):
 - **Physiotherapy-Management-System** [[REPOSITORY](https://github.com/szypkiwonsz/Physiotherapy-Management-System)/[LIVE](https://fizjo-system.herokuapp.com/)] - My biggest project created to learn the Django framework. <br>*(PYTHON / DJANGO / POSTGRESQL / HTML / CSS / BOOTSTRAP / JAVASCRIPT / AJAX / JQUERY / CELERY / REDIS / AWS / UNIT TESTS / SELENIUM)*
 - **Persons-Script** [[REPOSITORY](https://github.com/szypkiwonsz/Persons-Script)] - Script showing how I write Python object-oriented code. <br>*(PYTHON / PYTEST)*
 - **Movies-API-Script** [[REPOSITORY](https://github.com/szypkiwonsz/Movies-API-Script)] - Script showing how I write Python object-oriented code. <br>*(PYTHON / PYTEST)*
