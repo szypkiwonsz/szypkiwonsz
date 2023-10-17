@@ -2,10 +2,10 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg' alt='heroku' height='30'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='30'>
 
 #### About my projects (polished projects, worth attention):
-- **Physiotherapy-Management-System** [[REPOSITORY](https://github.com/szypkiwonsz/Physiotherapy-Management-System) / [LIVE](https://fizjo-system.herokuapp.com/)] - My biggest project created to learn the Django framework. <br>*(PYTHON / DJANGO / POSTGRESQL / HTML / CSS / BOOTSTRAP / JAVASCRIPT / AJAX / JQUERY / CELERY / REDIS / AWS / <br>UNIT TESTS / SELENIUM)*
+- **Physiotherapy-Management-System** [[REPOSITORY](https://github.com/szypkiwonsz/Physiotherapy-Management-System)] - My biggest project created to learn the Django framework. <br>*(PYTHON / DJANGO / POSTGRESQL / HTML / CSS / BOOTSTRAP / JAVASCRIPT / AJAX / JQUERY / CELERY / REDIS / AWS / <br>UNIT TESTS / SELENIUM)*
 - **Cryptocurrency-Script** [[REPOSITORY](https://github.com/szypkiwonsz/Cryptocurrency-Script)] - Script showing how I write Python object-oriented code. <br>*(PYTHON / PYTEST)*
 - **Persons-Script** [[REPOSITORY](https://github.com/szypkiwonsz/Persons-Script)] - Script showing how I write Python object-oriented code. <br>*(PYTHON / PYTEST)*
 - **Movies-API-Script** [[REPOSITORY](https://github.com/szypkiwonsz/Movies-API-Script)] - Script showing how I write Python object-oriented code. <br>*(PYTHON / PYTEST)*
-- **Recipes-Rest-Api** [[REPOSITORY](https://github.com/szypkiwonsz/Recipes-Rest-Api) / [LIVE](https://recipes-cookbook-api.herokuapp.com/api/)] - API designed to learn Django REST Framework. <br>*(PYTHON / DJANGO / DJANGO REST FRAMEWORK / POSTGRESQL / AWS / UNIT TESTS)*
-- **Fizjo-Med** [[REPOSITORY](https://github.com/szypkiwonsz/Fizjo-Med) / [LIVE](http://www.fizjo-med.eu/)] - Business card website created for a friend. <br>*(HTML / CSS / BOOTSTRAP)*
-- **Cookbook-Recipes** [[REPOSITORY](https://github.com/szypkiwonsz/Cookbook-Recipes) / [LIVE](https://recipes-cookbook-flask.herokuapp.com/)] - A simple application created in Flask using my API ([Recipes-Rest-Api](https://github.com/szypkiwonsz/Recipes-Rest-Api)). <br>*(PYTHON / FLASK / HTML / CSS / BOOTSTRAP / JAVASCRIPT / JQUERY / UNIT TESTS)*
+- **Recipes-Rest-Api** [[REPOSITORY](https://github.com/szypkiwonsz/Recipes-Rest-Api)] - API designed to learn Django REST Framework. <br>*(PYTHON / DJANGO / DJANGO REST FRAMEWORK / POSTGRESQL / AWS / UNIT TESTS)*
+- **Fizjo-Med** [[REPOSITORY](https://github.com/szypkiwonsz/Fizjo-Med)] - Business card website created for a friend. <br>*(HTML / CSS / BOOTSTRAP)*
+- **Cookbook-Recipes** [[REPOSITORY](https://github.com/szypkiwonsz/Cookbook-Recipes)] - A simple application created in Flask using my API ([Recipes-Rest-Api](https://github.com/szypkiwonsz/Recipes-Rest-Api)). <br>*(PYTHON / FLASK / HTML / CSS / BOOTSTRAP / JAVASCRIPT / JQUERY / UNIT TESTS)*
